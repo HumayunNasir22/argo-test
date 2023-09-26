@@ -6,7 +6,8 @@ metadata:
 spec:
   sourceRepos:
     - '*'
-  destinations:
+
+  destnnninations:
     - server: https://kubernetes.default.svc
       namespace: '*'
   clusterResourceWhitelist:
